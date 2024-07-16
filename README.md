@@ -27,7 +27,7 @@ O projeto ainda está em desenvolvimento.
 > - MySql
 
 ## 🌄Imagens
- | ![Tela Inicial](/src/prints/print-Login) | ![Listagem de Pedidos](/src/prints/print-listagemPedidos)
- | ![Pedido de Venda](/src/prints/print-pedidoVenda) | ![Cadastro de Clientes](/src/prints/print-cadastroClientes)
- | ![Cadastro de Produtos](/src/prints/print-cadastroProdutos) | ![Fluxo de Caixa e Comissões](/src/prints/print-FluxoDeCaixaEComissoes)
+ ![Tela Inicial](/src/prints/print-Login.jpg)  ![Listagem de Pedidos](/src/prints/print-listagemPedidos.jpg)
+ ![Pedido de Venda](/src/prints/print-pedidoVenda.jpg)  ![Cadastro de Clientes](/src/prints/print-cadastroClientes.jpg)
+ ![Cadastro de Produtos](/src/prints/print-cadastroProdutos.jpg)  ![Fluxo de Caixa e Comissões](/src/prints/print-FluxoDeCaixaEComissoes.jpg)
  
