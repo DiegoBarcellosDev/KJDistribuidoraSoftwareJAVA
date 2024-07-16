@@ -27,7 +27,18 @@ O projeto ainda está em desenvolvimento.
 > - MySql
 
 ## 🌄Imagens
- ![Tela Inicial](/src/prints/print-Login.jpg)  ![Listagem de Pedidos](/src/prints/print-listagemPedidos.jpg)
- ![Pedido de Venda](/src/prints/print-pedidoVenda.jpg)  ![Cadastro de Clientes](/src/prints/print-cadastroClientes.jpg)
- ![Cadastro de Produtos](/src/prints/print-cadastroProdutos.jpg)  ![Fluxo de Caixa e Comissões](/src/prints/print-FluxoDeCaixaEComissoes.jpg)
+ <table>
+  <tr>
+    <td><img src="/src/prints/print-Login.jpg" alt="Tela Inicial" width="250"></td>
+    <td><img src="/src/prints/print-listagemPedidos.jpg" alt="Listagem de Pedidos" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/prints/print-pedidoVenda.jpg" alt="Pedido de Venda" width="250"></td>
+    <td><img src="/src/prints/print-cadastroClientes.jpg" alt="Cadastro de Clientes" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/prints/print-cadastroProdutos.jpg" alt="Cadastro de Produtos" width="250"></td>
+    <td><img src="/src/prints/print-FluxoDeCaixaEComissoes.jpg" alt="Fluxo de Caixa e Comissões" width="250"></td>
+  </tr>
+</table>
  
